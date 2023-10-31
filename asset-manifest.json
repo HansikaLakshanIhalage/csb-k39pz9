@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-k39pz9/static/js/main.b1b3eb1f.chunk.js",
+    "main.js.map": "https://.github.io/csb-k39pz9/static/js/main.b1b3eb1f.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-k39pz9/static/js/runtime-main.ca17c345.js",
+    "runtime-main.js.map": "https://.github.io/csb-k39pz9/static/js/runtime-main.ca17c345.js.map",
+    "static/js/2.deeceafe.chunk.js": "https://.github.io/csb-k39pz9/static/js/2.deeceafe.chunk.js",
+    "static/js/2.deeceafe.chunk.js.map": "https://.github.io/csb-k39pz9/static/js/2.deeceafe.chunk.js.map",
+    "index.html": "https://.github.io/csb-k39pz9/index.html",
+    "precache-manifest.6d0dc1703da73d4716700e7a7c89aed6.js": "https://.github.io/csb-k39pz9/precache-manifest.6d0dc1703da73d4716700e7a7c89aed6.js",
+    "service-worker.js": "https://.github.io/csb-k39pz9/service-worker.js",
+    "static/js/2.deeceafe.chunk.js.LICENSE": "https://.github.io/csb-k39pz9/static/js/2.deeceafe.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca17c345.js",
+    "static/js/2.deeceafe.chunk.js",
+    "static/js/main.b1b3eb1f.chunk.js"
+  ]
+}
